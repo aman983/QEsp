@@ -58,9 +58,15 @@ Simulating a Quanutum Computer on Esp32
   <p align="center">
   <img src="Resources/9.png" width="950" title="Circuit Diagram"
 </p>
-  <li>Run an example sketch form the repo (Before running the code make the circuit given below)</li>
+    
+  <li>Your lib folder should look like this </li>
   <p align="center">
   <img src="Resources/10.png" width="950" title="Circuit Diagram"
+</p>
+    
+  <li>Run an example sketch form the repo (Before running the code make the circuit given below)</li>
+  <p align="center">
+  <img src="Resources/12.png" width="950" title="Circuit Diagram"
 </p>
     
     
