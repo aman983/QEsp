@@ -39,17 +39,13 @@ Simulating a Quanutum Computer on Esp32
   <img src="Resources/4.png" width="950" title="Circuit Diagram"
 </p>
     
-  <li>Download the repository and open the simulator.py with micropython </li>
+    
+  <li>open the QEsp.py from the repository in Thonny and press <code>Ctrl+Shift+s</code> on keyboard</li>
   <p align="center">
-  <img src="Resources/5.png" width="950" title="Circuit Diagram"
+  <img src="Resources/6.png" width="950" title="Circuit Diagram"
 </p>
     
-  <li>Press <code>Ctrl+Shift+s</code> on keyboard</li>
-  <p align="center">
-  <img src="Resources/6 ctrl+shif+s.png" width="950" title="Circuit Diagram"
-</p>
-    
-  <li>click save on Esp32</li>
+  <li>click save on Micropython Device</li>
   <p align="center">
   <img src="Resources/7.png" width="950" title="Circuit Diagram"
 </p>
