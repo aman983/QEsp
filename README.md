@@ -70,15 +70,15 @@ Simulating a Quanutum Computer on Esp32
   
    
  <br> <li><b>Circuit connections</b> <ol>
-    <li>Pin 0 to SDA</li>
-    <li>Pin 1 to SCL</li>
+    <li>Pin 21 to SDA</li>
+    <li>Pin 22 to SCL</li>
     <li>3.3v to VCC</li>
     <li>GND to GND</li>
     </ol> 
   </li>
   
    <p align="center">
-  <img src="pico circuit.jpg" width="350" title="Circuit Diagram"
+  <img src="QEsp circuit.png" width="550" title="Circuit Diagram"
 </p>
 
       
